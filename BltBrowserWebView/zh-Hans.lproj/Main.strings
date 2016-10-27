@@ -1,0 +1,30 @@
+
+/* Class = "UILabel"; text = "LabelLabelLabelL"; ObjectID = "3sl-dD-YS3"; */
+"3sl-dD-YS3.text" = "LabelLabelLabelL";
+
+/* Class = "UIButton"; normalTitle = "其他打开方式"; ObjectID = "E5j-eX-OFm"; */
+"E5j-eX-OFm.normalTitle" = "其他打开方式";
+
+/* Class = "UIButton"; normalTitle = "返回"; ObjectID = "FB3-yQ-L55"; */
+"FB3-yQ-L55.normalTitle" = "返回";
+
+/* Class = "UIButton"; normalTitle = "前进"; ObjectID = "Nhf-km-gSl"; */
+"Nhf-km-gSl.normalTitle" = "前进";
+
+/* Class = "UIButton"; normalTitle = "分享"; ObjectID = "P4W-4f-LXP"; */
+"P4W-4f-LXP.normalTitle" = "分享";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "ewe-gb-zrF"; */
+"ewe-gb-zrF.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "删除"; ObjectID = "fHA-ZS-ewE"; */
+"fHA-ZS-ewE.normalTitle" = "删除";
+
+/* Class = "UIButton"; normalTitle = "添加"; ObjectID = "iNO-CA-7Zg"; */
+"iNO-CA-7Zg.normalTitle" = "添加";
+
+/* Class = "UIButton"; normalTitle = "暂停暂停"; ObjectID = "k2p-Ex-K4C"; */
+"k2p-Ex-K4C.normalTitle" = "暂停暂停";
+
+/* Class = "UIButton"; normalTitle = "首页"; ObjectID = "nfH-P4-zF2"; */
+"nfH-P4-zF2.normalTitle" = "首页";

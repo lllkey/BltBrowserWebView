@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  BltBrowser
+
+  Created by lsq on 16/10/11.
+  Copyright © 2016年 blt. All rights reserved.
+*/
+"Authentication required" = "Authentication required";
+
+"A username and password are being requested by %@. The site says: %@" = "A username and password are being requested by %@. The site says: %@";
+
+"A username and password are being requested by %@." = "A username and password are being requested by %@.";
+
+"Log in" = "Log in";
+
+"Cancel" = "Cancel";
+
+"Username" = "Username";
+
+"Password" = "Password";

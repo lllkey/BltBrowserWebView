@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  BltBrowser
+
+  Created by lsq on 16/10/11.
+  Copyright © 2016年 blt. All rights reserved.
+*/
+"Authentication required" = "身份认证";
+
+"A username and password are being requested by %@. The site says: %@" = "%@需要用户名和密码. 网站显示: %@";
+
+"A username and password are being requested by %@." = "%@需要用户名和密码.";
+
+"Log in" = "登录";
+
+"Cancel" = "取消";
+
+"Username" = "用户名";
+
+"Password" = "密码";

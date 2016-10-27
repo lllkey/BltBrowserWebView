@@ -1,8 +1,8 @@
 //
 //  ViewController.m
-//  BltBrowserWebView
+//  BltBrowser
 //
-//  Created by lsq on 2016/10/27.
+//  Created by lsq on 16/7/29.
 //  Copyright © 2016年 blt. All rights reserved.
 //
 
@@ -16,14 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
 }
-
 
 - (void)didReceiveMemoryWarning {
     [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
 }
-
 
 @end
