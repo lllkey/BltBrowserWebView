@@ -1,5 +1,13 @@
 # BltBrowserWebView
 使用WKWebView的一个带下载的web浏览界面
+图片展示：<br/>
+svn弹框：<br/>
+![image1](https://github.com/lllkey/BltBrowserWebView/tree/master/screenshot/image-svn.png)<br/>
+访问失败界面：<br/>
+![image2](https://github.com/lllkey/BltBrowserWebView/tree/master/screenshot/image-error.png)<br/>
+下载列表：<br/>
+![image2](https://github.com/lllkey/BltBrowserWebView/tree/master/screenshot/image-download.png)<br/>
+
 
 ##代码说明：
 ####1.webview界面：BLTWebViewViewController
