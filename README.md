@@ -2,11 +2,11 @@
 使用WKWebView的一个带下载的web浏览界面
 图片展示：<br/>
 svn弹框：<br/>
-![image1](https://github.com/lllkey/BltBrowserWebView/blob/master/screenshot/image-svn.png)<br/>
+![image1](https://github.com/lllkey/BltBrowserWebView/blob/master/screenshot/image-svn.jpeg)<br/>
 访问失败界面：<br/>
-![image2](https://github.com/lllkey/BltBrowserWebView/blob/master/screenshot/image-error.png)<br/>
+![image2](https://github.com/lllkey/BltBrowserWebView/blob/master/screenshot/image-error.jpeg)<br/>
 下载列表：<br/>
-![image3](https://github.com/lllkey/BltBrowserWebView/blob/master/screenshot/image-download.png)<br/>
+![image3](https://github.com/lllkey/BltBrowserWebView/blob/master/screenshot/image-download.jpeg)<br/>
 
 
 ##代码说明：
